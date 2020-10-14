@@ -1,0 +1,30 @@
+h1 {
+  border-style: dotted;
+  background-color: lightblue;
+}
+
+h2 {
+  border-style: dashed;
+  background-color: orange;
+}
+
+footer {
+  border-style: solid;
+  background-color: greenyellow;
+ }
+
+ body {
+  background-color: grey;
+  font-family: Impact,sans-serif;
+ }
+
+ a:hover {
+  color: hotpink;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
